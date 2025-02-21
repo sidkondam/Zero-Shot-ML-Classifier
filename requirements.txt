@@ -1,0 +1,6 @@
+torch
+clip-by-openai
+Pillow
+faiss-cpu
+numpy
+pandas
